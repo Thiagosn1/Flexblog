@@ -1,2 +1,2 @@
 # Flexblog
-Projeto desenvolvido durante o curso CSS Flexbox - Origamid.
+Foram implementados oos principais conceitos de flexbox, como grow, shrink, basis, aligns, contents, etc.
